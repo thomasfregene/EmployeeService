@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace EmployeeService
 {
-    class PartTimeEmployee
+    public class PartTimeEmployee : Employee
     {
+        public int HourlyPay { get; set; }
+        public int HoursWorked { get; set; }
+
     }
 }

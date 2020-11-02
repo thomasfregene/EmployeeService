@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EmployeeService
 {
-    class FullTimeEmployee
+    public class FullTimeEmployee : Employee
     {
+        public int AnnualSalary { get; set; }
     }
 }
