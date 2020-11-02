@@ -1,0 +1,10 @@
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojAssemblyReference.cache
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Projects\WCFProjects\EmployeeService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

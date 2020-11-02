@@ -1,0 +1,6 @@
+C:\Projects\WCFProjects\EmployeeService\bin\Debug\EmployeeService.dll
+C:\Projects\WCFProjects\EmployeeService\bin\Debug\EmployeeService.pdb
+C:\Projects\WCFProjects\EmployeeService\obj\Debug\EmployeeService.csprojAssemblyReference.cache
+C:\Projects\WCFProjects\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+C:\Projects\WCFProjects\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Projects\WCFProjects\EmployeeService\obj\Debug\EmployeeService.pdb
